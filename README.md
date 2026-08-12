@@ -1,4 +1,4 @@
-Languages: [简体中文](README_zh.md) | English
+Languages: [简体中文](README.zh-CN.md) | English
 
 ---
 # PhD Application Hub
