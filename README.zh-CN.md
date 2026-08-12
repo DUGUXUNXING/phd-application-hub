@@ -1,3 +1,7 @@
+语言: [English](README.md) | 🇨🇳 中文
+
+---
+
 # PhD Application Hub
 
 一个本地优先、面向所有学科的 Obsidian 博士申请管理工具。
