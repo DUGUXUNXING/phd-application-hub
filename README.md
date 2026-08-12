@@ -1,3 +1,6 @@
+Languages: [简体中文](README_zh.md) | English
+
+---
 # PhD Application Hub
 
 A local-first Obsidian workflow for managing PhD applications from supervisor discovery to final decisions.
