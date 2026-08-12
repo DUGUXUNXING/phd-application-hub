@@ -1,0 +1,12 @@
+.phd-application-hub-modal .setting-item {
+  align-items: flex-start;
+}
+
+.phd-application-hub-modal .setting-item-control {
+  min-width: 52%;
+}
+
+.phd-application-hub-modal textarea {
+  min-height: 7rem;
+  width: 100%;
+}

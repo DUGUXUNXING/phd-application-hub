@@ -1,0 +1,31 @@
+{
+  "name": "phd-application-hub",
+  "version": "1.0.1",
+  "description": "An Obsidian community plugin for managing PhD applications.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "obsidian",
+    "phd",
+    "graduate-school",
+    "application-tracker"
+  ],
+  "author": "DUGUXUNXING",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@types/node": "^22.15.17",
+    "esbuild": "0.25.5",
+    "eslint": "^9.39.4",
+    "eslint-plugin-obsidianmd": "^0.4.0",
+    "globals": "^17.6.1",
+    "obsidian": "latest",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.59.1"
+  }
+}

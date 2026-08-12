@@ -1,0 +1,9 @@
+{
+  "id": "phd-application-hub",
+  "name": "PhD Application Hub",
+  "version": "1.0.1",
+  "minAppVersion": "1.9.10",
+  "description": "Plan PhD applications, supervisor outreach, deadlines, documents, and decisions in local Markdown.",
+  "author": "DUGUXUNXING",
+  "isDesktopOnly": false
+}
